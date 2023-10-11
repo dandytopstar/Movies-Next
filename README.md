@@ -18,8 +18,8 @@ For large changes, please file an issue to discuss your proposed changes with us
 Clone and install the dependencies for `next-movies` locally:
 
 ```bash 
-  git clone https://github.com/byteslinger00/Movies-NextJS.git
-  cd Movies-NextJS 
+  git clone https://github.com/dandytopstar/Movies-Next.git
+  cd Movies-Next
   npm install
 ```
 
